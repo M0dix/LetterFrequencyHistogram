@@ -1,0 +1,14 @@
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\LetterFrequencyHistogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\LetterFrequencyHistogram.AssemblyInfoInputs.cache
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\LetterFrequencyHistogram.AssemblyInfo.cs
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\LetterFrequencyHistogram.csproj.CoreCompileInputs.cache
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\bin\Debug\net8.0\LetterFrequencyHistogram.exe
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\bin\Debug\net8.0\LetterFrequencyHistogram.deps.json
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\bin\Debug\net8.0\LetterFrequencyHistogram.runtimeconfig.json
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\bin\Debug\net8.0\LetterFrequencyHistogram.dll
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\bin\Debug\net8.0\LetterFrequencyHistogram.pdb
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\LetterFrequencyHistogram.dll
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\refint\LetterFrequencyHistogram.dll
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\LetterFrequencyHistogram.pdb
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\LetterFrequencyHistogram.genruntimeconfig.cache
+C:\Users\yufin\source\repos\LetterFrequencyHistogram\obj\Debug\net8.0\ref\LetterFrequencyHistogram.dll
